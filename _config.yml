@@ -68,8 +68,8 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
-disqus_shortname:
+duoshuo_shortname: krshubham
+disqus_shortname: krshubham
 
 
 # Code Highlight theme
@@ -107,7 +107,7 @@ google_analytics:
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
-twitter:
+twitter: krshubham1708
 google_plus:
 fb_admins:
 fb_app_id:
@@ -122,7 +122,7 @@ facebook_sdk:
   webmaster:    #true
 
 # CNZZ count
-cnzz_siteid: 1260716016
+cnzz_siteid: 
 
 # busuanzi count
 # http://busuanzi.ibruce.info/
